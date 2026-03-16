@@ -1,0 +1,45 @@
+name: Generate Short Idea
+
+# When to run this workflow
+on:
+  # Run on a schedule (every 12 hours)
+  schedule:
+    - cron: '0 */12 * * *'  # At minute 0 of every 12th hour
+  
+  # Also allow manual trigger (click a button to run)
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Step 1: Get the code from the repository
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      # Step 2: Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      # Step 3: Install required packages
+      - name: Install dependencies
+        run: |
+          pip install requests
+      
+      # Step 4: Run the idea generator
+      - name: Generate idea
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/idea_generator.py
+      
+      # Step 5: Save the generated ideas back to the repo
+      - name: Save ideas to repository
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🌌 Generated new Short idea" && git push)
