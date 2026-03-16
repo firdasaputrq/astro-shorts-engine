@@ -1,0 +1,19 @@
+[
+  {
+    "topic": "Interstellar Travel Time",
+    "topic_family": "travel_time",
+    "hook": "Want to visit the *closest* star to our Sun?",
+    "facts": [
+      "Proxima Centauri is the nearest star to us, beyond the Sun.",
+      "It is 4.2 light-years away, which is roughly 40 TRILLION kilometers (25 trillion miles).",
+      "Our fastest spacecraft, Voyager 1, travels at an incredible ~61,000 km/h (~38,000 mph)."
+    ],
+    "payoff": "At Voyager 1's speed, it would take OVER 70,000 YEARS to reach Proxima Centauri. Hope you packed snacks!",
+    "title": "Travel to the Closest Star? \ud83e\udd2f",
+    "hashtags": [
+      "#Space #Astronomy #Interstellar #Voyager1 #ProximaCentauri"
+    ],
+    "generated_at": "2026-03-16T05:03:37.677594",
+    "status": "pending"
+  }
+]
