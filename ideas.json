@@ -114,5 +114,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-19T01:16:05.341528"
+  },
+  {
+    "topic": "Our Cosmic Bubble",
+    "topic_family": "scale_comparison",
+    "hook": "Think you know your cosmic neighborhood? Think again!",
+    "facts": [
+      "Earth's diameter is 12,742 kilometers.",
+      "Our entire Solar System, including the Oort Cloud, spans approximately 2 light-years.",
+      "Our Solar System resides within the Local Bubble, a vast cavity of hot gas roughly 300 light-years across."
+    ],
+    "payoff": "Your *entire* Solar System is a microscopic speck within our immediate 'local' cosmic environment!",
+    "title": "Your \"Neighborhood\" is MASSIVE! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#SpaceScale",
+      "#CosmicBubble",
+      "#Astrophysics",
+      "#ScienceShorts",
+      "#SpaceFacts"
+    ],
+    "generated_at": "2026-03-19T08:31:15.101993",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-19T08:31:23.807007"
   }
 ]
