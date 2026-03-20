@@ -185,5 +185,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-20T01:11:30.593762"
+  },
+  {
+    "topic": "Neutron Star Density",
+    "topic_family": "scale_comparison",
+    "hook": "What's smaller than New York City but weighs more than our Sun?",
+    "facts": [
+      "Manhattan Island stretches approx. 21.6 km (13.4 miles) from end to end.",
+      "A typical neutron star is only about 20 km (12.4 miles) in diameter.",
+      "Yet, this city-sized sphere contains 1.4 to 2 times the mass of our ENTIRE Sun!"
+    ],
+    "payoff": "That's like fitting *two Suns* into an object smaller than Manhattan. The universe's most extreme density!",
+    "title": "NYC vs. Neutron Star! \ud83e\udd2f",
+    "hashtags": [
+      "astrophysics",
+      "neutronstar",
+      "scalecomparison",
+      "spacetok",
+      "sciencefacts"
+    ],
+    "generated_at": "2026-03-20T08:30:39.546145",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-20T08:30:48.719416"
   }
 ]

@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Neutron Star Density",
+    "topic_family": "scale_comparison",
+    "hook": "What's smaller than New York City but weighs more than our Sun?",
+    "facts": [
+      "Manhattan Island stretches approx. 21.6 km (13.4 miles) from end to end.",
+      "A typical neutron star is only about 20 km (12.4 miles) in diameter.",
+      "Yet, this city-sized sphere contains 1.4 to 2 times the mass of our ENTIRE Sun!"
+    ],
+    "payoff": "That's like fitting *two Suns* into an object smaller than Manhattan. The universe's most extreme density!",
+    "title": "NYC vs. Neutron Star! \ud83e\udd2f",
+    "hashtags": [
+      "astrophysics",
+      "neutronstar",
+      "scalecomparison",
+      "spacetok",
+      "sciencefacts"
+    ],
+    "generated_at": "2026-03-20T08:30:39.546145",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Smaller than NYC,\nHeavier than our Sun?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Dark cosmic background with subtle twinkling stars. A large question mark icon appears and slowly pulsates.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Manhattan: ~21.6 km\n(13.4 mi) end-to-end",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "Overhead map view of Manhattan Island, with a prominent red line indicating its length.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "A Neutron Star:\nOnly ~20 km (12.4 mi) in diameter",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "Manhattan map slides off to the left. A small, incredibly dense-looking, glowing sphere (the neutron star) slides in from the right, appearing to be roughly the same scale as Manhattan's length.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Contains 1.4-2x the mass\nof our ENTIRE Sun!",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "The small neutron star remains. A giant, fiery silhouette of the Sun appears next to it, with an arrow pointing from the Sun to the tiny neutron star, and a text overlay 'x2 Mass'.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "That's 2 Suns in a city-sized sphere.\nTHE UNIVERSE'S MOST EXTREME DENSITY!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "An illustrative graphic showing an outline of Manhattan, with two miniature Sun icons packed tightly inside it. The background darkens, and the text 'THE UNIVERSE'S MOST EXTREME DENSITY!' dominates the screen."
+      }
+    ],
+    "thumbnail_text": "Neutron Star: Extreme Density!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-03-20T08:30:48.719204",
+  "status": "uploaded",
+  "rendered_at": "2026-03-20T08:31:49.214801",
+  "video_path": "videos_output/neutron_star_density_20260320_083049.mp4",
+  "uploaded_at": "2026-03-20T08:31:51.175864",
+  "youtube": {
+    "video_id": "qnE_1LOqTZY",
+    "url": "https://youtube.com/shorts/qnE_1LOqTZY",
+    "title": "NYC vs. Neutron Star! \ud83e\udd2f",
+    "uploaded_at": "2026-03-20T08:31:51.175747"
+  }
+}
