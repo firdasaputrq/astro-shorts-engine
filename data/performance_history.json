@@ -5,14 +5,14 @@
     "published_at": "2026-03-16T15:13:46Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 294,
+      "views": 299,
       "likes": 2,
       "comments": 0,
       "watch_time_minutes": 24,
       "avg_view_duration_seconds": 21
     },
-    "performance_score": 1.795,
-    "analyzed_at": "2026-03-20T06:54:03.785388"
+    "performance_score": 1.808,
+    "analyzed_at": "2026-03-21T06:41:38.608100"
   },
   {
     "video_id": "FLFWTixUFRE",
@@ -20,14 +20,14 @@
     "published_at": "2026-03-16T14:42:33Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 1004,
-      "likes": 9,
+      "views": 1664,
+      "likes": 17,
       "comments": 0,
-      "watch_time_minutes": 86,
-      "avg_view_duration_seconds": 15
+      "watch_time_minutes": 134,
+      "avg_view_duration_seconds": 14
     },
-    "performance_score": 1.98,
-    "analyzed_at": "2026-03-20T06:54:03.879934"
+    "performance_score": 2.08,
+    "analyzed_at": "2026-03-21T06:41:38.710254"
   },
   {
     "video_id": "CcRtVP5veoQ",
@@ -42,7 +42,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-03-20T06:54:03.968342"
+    "analyzed_at": "2026-03-21T06:41:38.801793"
   },
   {
     "video_id": "cAnlLGp8FfM",
@@ -55,7 +55,7 @@
       "comments": 1
     },
     "performance_score": 0.185,
-    "analyzed_at": "2026-03-20T06:54:04.055570"
+    "analyzed_at": "2026-03-21T06:41:38.889355"
   },
   {
     "video_id": "A6O3_Kynlmo",
@@ -271,14 +271,14 @@
     "published_at": "2026-03-16T19:49:41Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 1515,
+      "views": 1516,
       "likes": 14,
       "comments": 1,
       "watch_time_minutes": 162,
       "avg_view_duration_seconds": 15
     },
     "performance_score": 2.18,
-    "analyzed_at": "2026-03-20T06:54:03.492045"
+    "analyzed_at": "2026-03-21T06:41:38.309349"
   },
   {
     "video_id": "pWzHBx9cRGA",
@@ -286,14 +286,14 @@
     "published_at": "2026-03-16T18:26:15Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 1467,
+      "views": 1476,
       "likes": 12,
       "comments": 0,
-      "watch_time_minutes": 153,
+      "watch_time_minutes": 154,
       "avg_view_duration_seconds": 15
     },
     "performance_score": 2.04,
-    "analyzed_at": "2026-03-20T06:54:03.587996"
+    "analyzed_at": "2026-03-21T06:41:38.410809"
   },
   {
     "video_id": "w7EB07uu7t0",
@@ -301,14 +301,14 @@
     "published_at": "2026-03-16T16:14:54Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 175,
+      "views": 176,
       "likes": 2,
       "comments": 0,
       "watch_time_minutes": 13,
-      "avg_view_duration_seconds": 19
+      "avg_view_duration_seconds": 18
     },
-    "performance_score": 1.182,
-    "analyzed_at": "2026-03-20T06:54:03.679678"
+    "performance_score": 1.165,
+    "analyzed_at": "2026-03-21T06:41:38.503462"
   },
   {
     "video_id": "qEiMxBmMLpQ",
@@ -316,14 +316,14 @@
     "published_at": "2026-03-17T02:29:06Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 272,
+      "views": 276,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 54,
-      "avg_view_duration_seconds": 63
+      "avg_view_duration_seconds": 61
     },
-    "performance_score": 2.33,
-    "analyzed_at": "2026-03-20T06:54:03.383334"
+    "performance_score": 2.34,
+    "analyzed_at": "2026-03-21T06:41:38.213450"
   },
   {
     "video_id": "IFY4hH6sDNY",
@@ -331,14 +331,14 @@
     "published_at": "2026-03-18T01:18:19Z",
     "topic_family": "myth_busting",
     "metrics": {
-      "views": 2,
+      "views": 6,
       "likes": 1,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 6
     },
-    "performance_score": 0.145,
-    "analyzed_at": "2026-03-20T06:54:03.186519"
+    "performance_score": 0.155,
+    "analyzed_at": "2026-03-21T06:41:38.015975"
   },
   {
     "video_id": "aqCps4ljjtw",
@@ -346,14 +346,14 @@
     "published_at": "2026-03-17T15:19:09Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 20,
-      "likes": 0,
+      "views": 1443,
+      "likes": 18,
       "comments": 0,
-      "watch_time_minutes": 1,
-      "avg_view_duration_seconds": 7
+      "watch_time_minutes": 205,
+      "avg_view_duration_seconds": 21
     },
-    "performance_score": 0.215,
-    "analyzed_at": "2026-03-20T06:54:03.283246"
+    "performance_score": 2.22,
+    "analyzed_at": "2026-03-21T06:41:38.112184"
   },
   {
     "video_id": "M3VzTVun-aU",
@@ -363,10 +363,12 @@
     "metrics": {
       "views": 2,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 4
     },
-    "performance_score": 0.005,
-    "analyzed_at": "2026-03-20T06:54:02.882921"
+    "performance_score": 0.085,
+    "analyzed_at": "2026-03-21T06:41:37.715161"
   },
   {
     "video_id": "TzTKHCSyCLQ",
@@ -374,12 +376,14 @@
     "published_at": "2026-03-18T16:52:25Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 342,
+      "views": 345,
       "likes": 3,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 16,
+      "avg_view_duration_seconds": 9
     },
-    "performance_score": 0.81,
-    "analyzed_at": "2026-03-20T06:54:02.966004"
+    "performance_score": 1.39,
+    "analyzed_at": "2026-03-21T06:41:37.796061"
   },
   {
     "video_id": "_ddtJh0kodY",
@@ -389,10 +393,12 @@
     "metrics": {
       "views": 6,
       "likes": 2,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 17
     },
-    "performance_score": 0.055,
-    "analyzed_at": "2026-03-20T06:54:03.090691"
+    "performance_score": 0.395,
+    "analyzed_at": "2026-03-21T06:41:37.897561"
   },
   {
     "video_id": "JLYrvt9SjAA",
@@ -405,7 +411,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-20T06:54:02.608826"
+    "analyzed_at": "2026-03-21T06:41:37.433559"
   },
   {
     "video_id": "58Gzc6fDwx8",
@@ -413,12 +419,12 @@
     "published_at": "2026-03-19T16:48:45Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.0,
-    "analyzed_at": "2026-03-20T06:54:02.700730"
+    "performance_score": 0.005,
+    "analyzed_at": "2026-03-21T06:41:37.523615"
   },
   {
     "video_id": "zNuMrd_JSXk",
@@ -431,6 +437,58 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-20T06:54:02.783719"
+    "analyzed_at": "2026-03-21T06:41:37.627048"
+  },
+  {
+    "video_id": "Z-AJDQGpUV4",
+    "title": "Universe's MEGA-OCEANS?! \ud83c\udf0a\ud83e\udd2f",
+    "published_at": "2026-03-21T04:48:55Z",
+    "topic_family": "planetary_facts",
+    "metrics": {
+      "views": 176,
+      "likes": 1,
+      "comments": 0
+    },
+    "performance_score": 0.46,
+    "analyzed_at": "2026-03-21T06:41:37.056266"
+  },
+  {
+    "video_id": "wMdnDQ5RqoM",
+    "title": "Your 'Now' Is a Lie! \ud83e\udd2f\u23f1\ufe0f",
+    "published_at": "2026-03-21T01:08:47Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 4,
+      "likes": 1,
+      "comments": 0
+    },
+    "performance_score": 0.03,
+    "analyzed_at": "2026-03-21T06:41:37.153774"
+  },
+  {
+    "video_id": "G46FS4EP2KE",
+    "title": "You're a \ud83d\ude80 cosmic speed demon! \ud83e\udd2f",
+    "published_at": "2026-03-20T16:33:42Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 11,
+      "likes": 2,
+      "comments": 0
+    },
+    "performance_score": 0.068,
+    "analyzed_at": "2026-03-21T06:41:37.237919"
+  },
+  {
+    "video_id": "qnE_1LOqTZY",
+    "title": "NYC vs. Neutron Star! \ud83e\udd2f",
+    "published_at": "2026-03-20T08:32:08Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-03-21T06:41:37.341085"
   }
 ]
