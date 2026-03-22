@@ -372,5 +372,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-22T08:23:48.601359"
+  },
+  {
+    "topic": "Galactic Center Travel Time",
+    "topic_family": "travel_time",
+    "hook": "Want to visit the Milky Way's supermassive black hole?",
+    "facts": [
+      "Our galaxy's central black hole, Sagittarius A*, is located ~26,000 light-years away.",
+      "Even traveling at the speed of light (300,000 km/s) would take 26,000 years to get there.",
+      "Our fastest spacecraft, the Parker Solar Probe, hit ~163 km/s. At that speed, reaching Sgr A* would take a staggering ~47.8 million years."
+    ],
+    "payoff": "Interstellar travel isn't just far, it's a journey spanning entire geological eras for us!",
+    "title": "To The Galactic Core?! \ud83d\ude80\ud83d\udda4",
+    "hashtags": [
+      "SpaceTravel",
+      "BlackHole",
+      "MilkyWay",
+      "Astrophysics",
+      "CosmicScale"
+    ],
+    "generated_at": "2026-03-22T16:18:55.588478",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-22T16:19:05.533475"
   }
 ]
