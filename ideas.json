@@ -483,5 +483,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-24T01:09:25.215277"
+  },
+  {
+    "topic": "Interstellar Travel Time to Exoplanet",
+    "topic_family": "travel_time",
+    "hook": "Want to visit an alien world? How fast could we get there?",
+    "facts": [
+      "Proxima Centauri b, our closest exoplanet, is 4.2 light-years away.",
+      "Traveling at the speed of light, that journey would take 4.2 years.",
+      "Our fastest spacecraft (Parker Solar Probe) reaches up to 195 km/s. At *that* speed, it would take over 6,500 years to reach!"
+    ],
+    "payoff": "Even our closest alien neighbor is an impossible journey with current technology. Interstellar travel remains a distant dream!",
+    "title": "Closest Alien World: HOW LONG?! \ud83e\udd2f\ud83d\ude80",
+    "hashtags": [
+      "#astrophysics",
+      "#space",
+      "#exoplanet",
+      "#travel",
+      "#proximacentauri"
+    ],
+    "generated_at": "2026-03-24T08:40:21.997292",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-24T08:40:30.389539"
   }
 ]
