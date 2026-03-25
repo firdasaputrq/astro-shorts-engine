@@ -549,5 +549,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-25T01:14:58.693512"
+  },
+  {
+    "topic": "Europa's Hidden Ocean Volume",
+    "topic_family": "planetary_facts",
+    "hook": "Think Earth is the 'Blue Planet'?",
+    "facts": [
+      "Earth's vast oceans contain ~1.37 billion cubic kilometers of liquid water.",
+      "Jupiter's icy moon, Europa, is smaller than Earth's Moon, but hides a global ocean beneath its frozen crust.",
+      "This subsurface ocean is estimated to hold *more than twice* the water volume of all Earth's oceans combined! (~2.74 billion cubic kilometers)."
+    ],
+    "payoff": "Our solar system's largest liquid water reservoir might be an alien ocean, full of potential for life beyond Earth!",
+    "title": "Hidden Oceans: Bigger Than Earth's! \ud83d\udca7\ud83c\udf0d",
+    "hashtags": [
+      "#SpaceFacts",
+      "#Europa",
+      "#OceanWorld",
+      "#Astronomy",
+      "#ScienceShorts"
+    ],
+    "generated_at": "2026-03-25T08:39:23.033458",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-25T08:39:33.469363"
   }
 ]
