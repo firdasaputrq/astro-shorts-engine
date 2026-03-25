@@ -530,5 +530,24 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-24T17:03:40.412235"
+  },
+  {
+    "topic": "Kuiper Belt Travel Time",
+    "topic_family": "travel_time",
+    "hook": "Wanna visit the Kuiper Belt? Our Solar System's distant icy ring! \u2744\ufe0f\ud83e\ude90",
+    "facts": [
+      "The Kuiper Belt begins at about 30 Astronomical Units (4.5 billion km) from the Sun.",
+      "At current fastest rocket speeds (~60,000 km/h), it would take you ~8.5 years to get there.",
+      "If you could drive a car (100 km/h) to the Kuiper Belt, the journey would take ~5,137 years!"
+    ],
+    "payoff": "Even at the speed of light, it takes ~4.2 hours. Our cosmic 'backyard' is unimaginably vast!",
+    "title": "To The Kuiper Belt! \ud83d\ude80\u2744\ufe0f\ud83c\udf0c",
+    "hashtags": [
+      "#KuiperBelt #SpaceTravel #SolarSystem #Astrophysics #TravelTime"
+    ],
+    "generated_at": "2026-03-25T01:14:50.166687",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-25T01:14:58.693512"
   }
 ]
