@@ -272,7 +272,7 @@ def main():
         return
     
     # Get the FIRST pending idea only
-    idea_index, idea = pending[0]
+    idea_index, idea = pending[-1]
     
     # Check if this topic was already scripted (safety check)
     existing = get_existing_scripts()
