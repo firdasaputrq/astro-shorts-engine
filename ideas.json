@@ -758,5 +758,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-28T01:14:34.859160"
+  },
+  {
+    "topic": "Titan's Alien Rains",
+    "topic_family": "planetary_facts",
+    "hook": "Imagine a world where it rains... but not water!",
+    "facts": [
+      "Saturn's moon Titan is the second-largest moon in our solar system, bigger than the planet Mercury.",
+      "It's the only moon with a dense atmosphere, thicker than Earth's, composed mostly of nitrogen. Surface temperature is a frigid -290\u00b0F (-179\u00b0C).",
+      "On Titan, rivers, lakes, and seas are filled not with water, but with liquid methane and ethane."
+    ],
+    "payoff": "Titan is the ONLY other body in our solar system with stable surface liquid and an active hydrological cycle!",
+    "title": "Rain... of Methane?! \ud83e\udd2f\ud83e\ude90",
+    "hashtags": [
+      "#Titan",
+      "#SpaceFacts",
+      "#MethaneLakes",
+      "#Astronomy",
+      "#AlienWorld"
+    ],
+    "generated_at": "2026-03-28T08:28:50.772145",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-28T08:28:58.129681"
   }
 ]
