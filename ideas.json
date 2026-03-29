@@ -804,5 +804,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-28T16:22:55.335097"
+  },
+  {
+    "topic": "Sun's true color",
+    "topic_family": "myth_busting",
+    "hook": "The Sun... is NOT yellow?! \ud83e\udd2f",
+    "facts": [
+      "Our Sun emits light across the ENTIRE visible spectrum (rainbow colors).",
+      "Its peak intensity is in the GREEN-BLUE portion of the spectrum.",
+      "When all these wavelengths combine, the Sun's light appears PURE WHITE from space.",
+      "Earth's atmosphere scatters blue light, making the Sun appear yellow/orange to us!"
+    ],
+    "payoff": "Your crayon box lied: The Sun is actually a WHITE star!",
+    "title": "The Sun's TRUE Color! \u2600\ufe0f\ud83e\udd2f",
+    "hashtags": [
+      "#SunColor",
+      "#SpaceMyth",
+      "#Astrophysics",
+      "#ScienceFacts",
+      "#WhiteStar"
+    ],
+    "generated_at": "2026-03-29T01:23:12.224372",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-29T01:23:23.109609"
   }
 ]
