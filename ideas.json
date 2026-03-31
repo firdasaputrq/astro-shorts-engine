@@ -963,5 +963,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-30T16:46:47.437718"
+  },
+  {
+    "topic": "Galactic Neighborhood Scale",
+    "topic_family": "scale_comparison",
+    "hook": "How big is your cosmic home address?",
+    "facts": [
+      "Our Milky Way Galaxy stretches ~100,000 light-years across.",
+      "It's one of 80+ galaxies in the Local Group, which spans ~10 million light-years.",
+      "The Local Group is just a tiny part of the Laniakea Supercluster, measuring ~520 million light-years wide and containing ~100,000 galaxies!"
+    ],
+    "payoff": "We live in an unimaginably vast 'neighborhood' of galaxies!",
+    "title": "Our Galactic Home's TRUE Size! \ud83c\udf0c\ud83c\udfe1\ud83e\udd2f",
+    "hashtags": [
+      "#Space",
+      "#Astrophysics",
+      "#MilkyWay",
+      "#Supercluster",
+      "#Universe"
+    ],
+    "generated_at": "2026-03-31T01:21:28.479307",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-31T01:21:37.351700"
   }
 ]
