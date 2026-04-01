@@ -1032,5 +1032,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-31T16:48:55.040892"
+  },
+  {
+    "topic": "Saturn's Rings Thinness",
+    "topic_family": "planetary_facts",
+    "hook": "Saturn's rings are wider than Earth, but THINNER than a football field is long! \ud83e\udd2f",
+    "facts": [
+      "Saturn's main rings span approximately 282,000 kilometers (175,000 miles) across \u2013 wide enough to fit more than 20 Earths side-by-side.",
+      "Despite their immense width, the average vertical thickness of the main rings is estimated to be only about 10-100 meters (30-330 feet).",
+      "If you scaled the rings down to the size of a CD, the CD itself would be thousands of times thicker than the scaled-down rings."
+    ],
+    "payoff": "They're incredibly flat! Saturn's rings are virtually 2-dimensional, like a cosmic sheet of paper hundreds of thousands of miles wide! \ud83d\udcc4\ud83e\ude90",
+    "title": "Saturn's Rings: THINNER Than You Think! \ud83d\ude2e\ud83e\ude90",
+    "hashtags": [
+      "Saturn",
+      "SpaceFacts",
+      "Planets",
+      "Rings",
+      "Astronomy"
+    ],
+    "generated_at": "2026-04-01T01:28:07.655697",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-01T01:28:17.705322"
   }
 ]
