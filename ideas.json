@@ -1149,5 +1149,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-02T08:45:46.954254"
+  },
+  {
+    "topic": "Nebula vs. Solar System Scale",
+    "topic_family": "scale_comparison",
+    "hook": "How big is our Solar System compared to a nebula?",
+    "facts": [
+      "Our Solar System, including the vast Oort Cloud, spans about 2 light-years across.",
+      "The iconic Orion Nebula, a stellar nursery, is approximately 24 light-years in diameter.",
+      "Imagine placing Solar Systems side-by-side across the nebula..."
+    ],
+    "payoff": "...you could fit 12 of them end-to-end across the Orion Nebula's width!",
+    "title": "Nebula: Solar Systems Deep! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#SpaceScale",
+      "#OrionNebula",
+      "#SolarSystem",
+      "#Astrophysics",
+      "#CosmicSize"
+    ],
+    "generated_at": "2026-04-02T16:46:03.837179",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-02T16:46:12.095586"
   }
 ]
