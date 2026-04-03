@@ -827,7 +827,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-02T07:11:27.038513"
+    "analyzed_at": "2026-04-03T07:07:23.191143"
   },
   {
     "video_id": "4I3XUyR-VZg",
@@ -842,7 +842,7 @@
       "avg_view_duration_seconds": 4
     },
     "performance_score": 0.105,
-    "analyzed_at": "2026-04-02T07:11:27.186189"
+    "analyzed_at": "2026-04-03T07:07:23.339948"
   },
   {
     "video_id": "I-LgFyfWZ8k",
@@ -857,7 +857,7 @@
       "avg_view_duration_seconds": 6
     },
     "performance_score": 0.143,
-    "analyzed_at": "2026-04-02T07:11:27.326219"
+    "analyzed_at": "2026-04-03T07:07:23.505784"
   },
   {
     "video_id": "I0m-PhrcAqo",
@@ -870,7 +870,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-02T07:11:26.370162"
+    "analyzed_at": "2026-04-03T07:07:22.452298"
   },
   {
     "video_id": "oN64aA9Jq4Y",
@@ -885,7 +885,7 @@
       "avg_view_duration_seconds": 12
     },
     "performance_score": 0.302,
-    "analyzed_at": "2026-04-02T07:11:26.495937"
+    "analyzed_at": "2026-04-03T07:07:22.601299"
   },
   {
     "video_id": "k-QOqm4n3Z8",
@@ -900,7 +900,7 @@
       "avg_view_duration_seconds": 17
     },
     "performance_score": 0.402,
-    "analyzed_at": "2026-04-02T07:11:26.627786"
+    "analyzed_at": "2026-04-03T07:07:22.727796"
   },
   {
     "video_id": "fwozI9xzIa0",
@@ -915,7 +915,7 @@
       "avg_view_duration_seconds": 14
     },
     "performance_score": 0.287,
-    "analyzed_at": "2026-04-02T07:11:26.779042"
+    "analyzed_at": "2026-04-03T07:07:22.885539"
   },
   {
     "video_id": "JkhAwpihcZs",
@@ -930,7 +930,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-02T07:11:26.908904"
+    "analyzed_at": "2026-04-03T07:07:23.046673"
   },
   {
     "video_id": "G_Z3MPGay74",
@@ -945,7 +945,7 @@
       "avg_view_duration_seconds": 20
     },
     "performance_score": 0.427,
-    "analyzed_at": "2026-04-02T07:11:25.942111"
+    "analyzed_at": "2026-04-03T07:07:22.047529"
   },
   {
     "video_id": "-eZjMf5DueM",
@@ -955,12 +955,10 @@
     "metrics": {
       "views": 0,
       "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 0
+      "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-02T07:11:26.090994"
+    "analyzed_at": "2026-04-03T07:07:22.184038"
   },
   {
     "video_id": "AM6k-iDLgP0",
@@ -975,7 +973,7 @@
       "avg_view_duration_seconds": 11
     },
     "performance_score": 0.227,
-    "analyzed_at": "2026-04-02T07:11:26.237963"
+    "analyzed_at": "2026-04-03T07:07:22.320560"
   },
   {
     "video_id": "vxklPOSekAQ",
@@ -983,12 +981,14 @@
     "published_at": "2026-04-01T01:29:54Z",
     "topic_family": "general",
     "metrics": {
-      "views": 6,
+      "views": 5,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 11
     },
-    "performance_score": 0.015,
-    "analyzed_at": "2026-04-02T07:11:25.543410"
+    "performance_score": 0.232,
+    "analyzed_at": "2026-04-03T07:07:21.667350"
   },
   {
     "video_id": "vdUMLcy2xqI",
@@ -1001,7 +1001,7 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-02T07:11:25.666729"
+    "analyzed_at": "2026-04-03T07:07:21.784553"
   },
   {
     "video_id": "x8aVQAQoXDE",
@@ -1011,10 +1011,12 @@
     "metrics": {
       "views": 2,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 19
     },
-    "performance_score": 0.005,
-    "analyzed_at": "2026-04-02T07:11:25.781592"
+    "performance_score": 0.385,
+    "analyzed_at": "2026-04-03T07:07:21.919962"
   },
   {
     "video_id": "EMH3QvnM4C0",
@@ -1022,12 +1024,12 @@
     "published_at": "2026-04-02T01:19:56Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.007,
-    "analyzed_at": "2026-04-02T07:11:25.148516"
+    "performance_score": 0.013,
+    "analyzed_at": "2026-04-03T07:07:21.244754"
   },
   {
     "video_id": "LKEOf6qK8QM",
@@ -1040,7 +1042,7 @@
       "comments": 0
     },
     "performance_score": 0.03,
-    "analyzed_at": "2026-04-02T07:11:25.301453"
+    "analyzed_at": "2026-04-03T07:07:21.362753"
   },
   {
     "video_id": "QDMaobWDv8g",
@@ -1053,6 +1055,45 @@
       "comments": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-02T07:11:25.429711"
+    "analyzed_at": "2026-04-03T07:07:21.507847"
+  },
+  {
+    "video_id": "fv2T7Z91BxM",
+    "title": "Jupiter's GIANT Spot is DISAPPEARING! \ud83d\ude31\ud83e\ude90",
+    "published_at": "2026-04-03T01:22:39Z",
+    "topic_family": "planetary_facts",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-04-03T07:07:20.890186"
+  },
+  {
+    "video_id": "oqtQRkIBq6E",
+    "title": "Nebula: Solar Systems Deep! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-04-02T16:47:34Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 5,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.013,
+    "analyzed_at": "2026-04-03T07:07:21.007274"
+  },
+  {
+    "video_id": "_NgNAQIzTrg",
+    "title": "Biggest Black Hole: SWALLOWS Our Solar System! \ud83d\ude31\ud83c\udf0c",
+    "published_at": "2026-04-02T08:47:12Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 10,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.025,
+    "analyzed_at": "2026-04-03T07:07:21.116620"
   }
 ]
