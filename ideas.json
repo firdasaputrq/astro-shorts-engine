@@ -1288,5 +1288,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-04T08:30:55.293079"
+  },
+  {
+    "topic": "Europa's Subsurface Ocean",
+    "topic_family": "planetary_facts",
+    "hook": "Which body in our solar system holds more liquid water than Earth?",
+    "facts": [
+      "Jupiter's moon Europa is an ice-covered world, roughly the size of Earth's moon.",
+      "Beneath its 15-25 km thick icy crust, scientists believe a vast saltwater ocean exists, estimated to be up to 150 km deep.",
+      "This hidden ocean is estimated to contain more than *twice* the volume of water found in all of Earth's oceans combined (~2.7 billion cubic km vs. 1.35 billion cubic km)."
+    ],
+    "payoff": "More water than Earth, hidden from sight, making Europa one of the best places to search for extraterrestrial life!",
+    "title": "Europa: Hidden Ocean, More Water Than Earth! \ud83c\udf0a\ud83d\udd2c",
+    "hashtags": [
+      "Europa",
+      "Jupiter",
+      "SpaceFacts",
+      "Astrophysics",
+      "AlienLife"
+    ],
+    "generated_at": "2026-04-04T16:24:47.507200",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-04T16:24:56.101217"
   }
 ]
