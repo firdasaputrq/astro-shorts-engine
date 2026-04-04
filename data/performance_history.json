@@ -870,7 +870,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-03T07:07:22.452298"
+    "analyzed_at": "2026-04-04T07:00:13.705744"
   },
   {
     "video_id": "oN64aA9Jq4Y",
@@ -878,14 +878,14 @@
     "published_at": "2026-03-29T21:51:29Z",
     "topic_family": "general",
     "metrics": {
-      "views": 7,
+      "views": 8,
       "likes": 1,
       "comments": 0,
       "watch_time_minutes": 1,
       "avg_view_duration_seconds": 12
     },
-    "performance_score": 0.302,
-    "analyzed_at": "2026-04-03T07:07:22.601299"
+    "performance_score": 0.305,
+    "analyzed_at": "2026-04-04T07:00:13.870171"
   },
   {
     "video_id": "k-QOqm4n3Z8",
@@ -900,7 +900,7 @@
       "avg_view_duration_seconds": 17
     },
     "performance_score": 0.402,
-    "analyzed_at": "2026-04-03T07:07:22.727796"
+    "analyzed_at": "2026-04-04T07:00:14.014366"
   },
   {
     "video_id": "fwozI9xzIa0",
@@ -915,7 +915,7 @@
       "avg_view_duration_seconds": 14
     },
     "performance_score": 0.287,
-    "analyzed_at": "2026-04-03T07:07:22.885539"
+    "analyzed_at": "2026-04-04T07:00:14.153151"
   },
   {
     "video_id": "JkhAwpihcZs",
@@ -930,7 +930,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-04-03T07:07:23.046673"
+    "analyzed_at": "2026-04-04T07:00:14.289835"
   },
   {
     "video_id": "G_Z3MPGay74",
@@ -945,7 +945,7 @@
       "avg_view_duration_seconds": 20
     },
     "performance_score": 0.427,
-    "analyzed_at": "2026-04-03T07:07:22.047529"
+    "analyzed_at": "2026-04-04T07:00:13.349957"
   },
   {
     "video_id": "-eZjMf5DueM",
@@ -958,7 +958,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-03T07:07:22.184038"
+    "analyzed_at": "2026-04-04T07:00:13.464180"
   },
   {
     "video_id": "AM6k-iDLgP0",
@@ -973,7 +973,7 @@
       "avg_view_duration_seconds": 11
     },
     "performance_score": 0.227,
-    "analyzed_at": "2026-04-03T07:07:22.320560"
+    "analyzed_at": "2026-04-04T07:00:13.597387"
   },
   {
     "video_id": "vxklPOSekAQ",
@@ -981,14 +981,14 @@
     "published_at": "2026-04-01T01:29:54Z",
     "topic_family": "general",
     "metrics": {
-      "views": 5,
+      "views": 7,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 11
     },
-    "performance_score": 0.232,
-    "analyzed_at": "2026-04-03T07:07:21.667350"
+    "performance_score": 0.237,
+    "analyzed_at": "2026-04-04T07:00:12.909172"
   },
   {
     "video_id": "vdUMLcy2xqI",
@@ -998,10 +998,12 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-03T07:07:21.784553"
+    "analyzed_at": "2026-04-04T07:00:13.059116"
   },
   {
     "video_id": "x8aVQAQoXDE",
@@ -1016,7 +1018,7 @@
       "avg_view_duration_seconds": 19
     },
     "performance_score": 0.385,
-    "analyzed_at": "2026-04-03T07:07:21.919962"
+    "analyzed_at": "2026-04-04T07:00:13.201560"
   },
   {
     "video_id": "EMH3QvnM4C0",
@@ -1024,12 +1026,14 @@
     "published_at": "2026-04-02T01:19:56Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 5,
+      "views": 3,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 6
     },
-    "performance_score": 0.013,
-    "analyzed_at": "2026-04-03T07:07:21.244754"
+    "performance_score": 0.128,
+    "analyzed_at": "2026-04-04T07:00:12.458482"
   },
   {
     "video_id": "LKEOf6qK8QM",
@@ -1039,10 +1043,12 @@
     "metrics": {
       "views": 4,
       "likes": 1,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 15
     },
-    "performance_score": 0.03,
-    "analyzed_at": "2026-04-03T07:07:21.362753"
+    "performance_score": 0.33,
+    "analyzed_at": "2026-04-04T07:00:12.606291"
   },
   {
     "video_id": "QDMaobWDv8g",
@@ -1052,10 +1058,12 @@
     "metrics": {
       "views": 2,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 20
     },
-    "performance_score": 0.005,
-    "analyzed_at": "2026-04-03T07:07:21.507847"
+    "performance_score": 0.405,
+    "analyzed_at": "2026-04-04T07:00:12.747855"
   },
   {
     "video_id": "fv2T7Z91BxM",
@@ -1063,12 +1071,12 @@
     "published_at": "2026-04-03T01:22:39Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 1,
+      "views": 6,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.003,
-    "analyzed_at": "2026-04-03T07:07:20.890186"
+    "performance_score": 0.015,
+    "analyzed_at": "2026-04-04T07:00:12.085408"
   },
   {
     "video_id": "oqtQRkIBq6E",
@@ -1081,7 +1089,7 @@
       "comments": 0
     },
     "performance_score": 0.013,
-    "analyzed_at": "2026-04-03T07:07:21.007274"
+    "analyzed_at": "2026-04-04T07:00:12.198114"
   },
   {
     "video_id": "_NgNAQIzTrg",
@@ -1089,11 +1097,50 @@
     "published_at": "2026-04-02T08:47:12Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.025,
-    "analyzed_at": "2026-04-03T07:07:21.116620"
+    "performance_score": 0.028,
+    "analyzed_at": "2026-04-04T07:00:12.318609"
+  },
+  {
+    "video_id": "4LbTBtHWGBs",
+    "title": "Universe's MYSTERIOUS Radio Bursts! \ud83d\udce1\ud83c\udf0c",
+    "published_at": "2026-04-04T01:16:49Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-04T07:00:11.674878"
+  },
+  {
+    "video_id": "zBbSwKt3Q-U",
+    "title": "Land on a Neutron Star?! \ud83d\ude31\ud83d\udcab",
+    "published_at": "2026-04-03T16:33:08Z",
+    "topic_family": "hypothetical",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-04-04T07:00:11.845935"
+  },
+  {
+    "video_id": "PyrEN8rxXT8",
+    "title": "Galactic Center Journey: The INSANE Travel Time! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-04-03T08:45:00Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-04-04T07:00:11.965914"
   }
 ]
