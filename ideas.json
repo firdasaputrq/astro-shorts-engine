@@ -1334,5 +1334,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-05T01:24:48.225135"
+  },
+  {
+    "topic": "Pluto-Charon Binary System",
+    "topic_family": "planetary_facts",
+    "hook": "What if a 'moon' was almost as big as its 'planet'?",
+    "facts": [
+      "Pluto's largest 'moon', Charon, is 1,212 km across \u2013 over half of Pluto's 2,376 km diameter.",
+      "They are so close in mass that their combined gravitational center (barycenter) lies in the empty space BETWEEN them.",
+      "Rather than Charon orbiting Pluto, they both orbit this invisible point in space every 6.4 days, while tidally locked."
+    ],
+    "payoff": "This makes them the Solar System's only recognized binary dwarf planet system, a truly unique cosmic dance!",
+    "title": "Pluto & Charon: A Cosmic Duet! \ud83d\udd7a\ud83d\udc83\ud83e\ude90",
+    "hashtags": [
+      "#Pluto",
+      "#Charon",
+      "#BinarySystem",
+      "#DwarfPlanet",
+      "#SpaceFacts"
+    ],
+    "generated_at": "2026-04-05T08:33:52.835357",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-05T08:34:03.257161"
   }
 ]
