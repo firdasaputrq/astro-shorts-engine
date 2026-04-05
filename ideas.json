@@ -1357,5 +1357,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-05T08:34:03.257161"
+  },
+  {
+    "topic": "Phobos's Fate",
+    "topic_family": "planetary_facts",
+    "hook": "Mars has two tiny moons. But one is DOOMED to die! \ud83e\udd2f",
+    "facts": [
+      "Phobos orbits Mars incredibly close, just 6,000 km (3,700 miles) above its surface.",
+      "It speeds around Mars in only 7 hours and 39 minutes \u2013 faster than Mars itself rotates!",
+      "This tight, fast orbit means Phobos is slowly spiraling inwards by about 1.8 meters (5.9 feet) per century."
+    ],
+    "payoff": "In just 30-50 million years, Mars will either devour Phobos whole or tear it apart into a new ring system!",
+    "title": "Mars's Doomed Moon! \ud83d\ude31\ud83e\ude90",
+    "hashtags": [
+      "#Phobos",
+      "#Mars",
+      "#Moon",
+      "#SpaceFacts",
+      "#Astronomy"
+    ],
+    "generated_at": "2026-04-05T16:26:00.614694",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-05T16:26:09.357997"
   }
 ]
