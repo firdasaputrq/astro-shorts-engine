@@ -945,7 +945,7 @@
       "avg_view_duration_seconds": 20
     },
     "performance_score": 0.427,
-    "analyzed_at": "2026-04-05T07:05:20.802341"
+    "analyzed_at": "2026-04-06T07:28:57.715724"
   },
   {
     "video_id": "-eZjMf5DueM",
@@ -958,7 +958,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-05T07:05:20.926399"
+    "analyzed_at": "2026-04-06T07:28:57.854470"
   },
   {
     "video_id": "AM6k-iDLgP0",
@@ -988,7 +988,7 @@
       "avg_view_duration_seconds": 11
     },
     "performance_score": 0.24,
-    "analyzed_at": "2026-04-05T07:05:20.375783"
+    "analyzed_at": "2026-04-06T07:28:57.190348"
   },
   {
     "video_id": "vdUMLcy2xqI",
@@ -1003,7 +1003,7 @@
       "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-05T07:05:20.515266"
+    "analyzed_at": "2026-04-06T07:28:57.363120"
   },
   {
     "video_id": "x8aVQAQoXDE",
@@ -1018,7 +1018,7 @@
       "avg_view_duration_seconds": 19
     },
     "performance_score": 0.39,
-    "analyzed_at": "2026-04-05T07:05:20.656497"
+    "analyzed_at": "2026-04-06T07:28:57.541148"
   },
   {
     "video_id": "EMH3QvnM4C0",
@@ -1033,7 +1033,7 @@
       "avg_view_duration_seconds": 6
     },
     "performance_score": 0.133,
-    "analyzed_at": "2026-04-05T07:05:19.971279"
+    "analyzed_at": "2026-04-06T07:28:56.655602"
   },
   {
     "video_id": "LKEOf6qK8QM",
@@ -1041,14 +1041,14 @@
     "published_at": "2026-04-01T16:54:37Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 5,
+      "views": 4,
       "likes": 1,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 16
     },
-    "performance_score": 0.353,
-    "analyzed_at": "2026-04-05T07:05:20.110917"
+    "performance_score": 0.35,
+    "analyzed_at": "2026-04-06T07:28:56.852080"
   },
   {
     "video_id": "QDMaobWDv8g",
@@ -1063,7 +1063,7 @@
       "avg_view_duration_seconds": 20
     },
     "performance_score": 0.405,
-    "analyzed_at": "2026-04-05T07:05:20.246427"
+    "analyzed_at": "2026-04-06T07:28:57.033436"
   },
   {
     "video_id": "fv2T7Z91BxM",
@@ -1071,14 +1071,14 @@
     "published_at": "2026-04-03T01:22:39Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 1,
+      "views": 6,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 6
+      "avg_view_duration_seconds": 13
     },
-    "performance_score": 0.122,
-    "analyzed_at": "2026-04-05T07:05:19.562757"
+    "performance_score": 0.275,
+    "analyzed_at": "2026-04-06T07:28:56.146933"
   },
   {
     "video_id": "oqtQRkIBq6E",
@@ -1093,7 +1093,7 @@
       "avg_view_duration_seconds": 17
     },
     "performance_score": 0.377,
-    "analyzed_at": "2026-04-05T07:05:19.700375"
+    "analyzed_at": "2026-04-06T07:28:56.311563"
   },
   {
     "video_id": "_NgNAQIzTrg",
@@ -1108,7 +1108,7 @@
       "avg_view_duration_seconds": 5
     },
     "performance_score": 0.128,
-    "analyzed_at": "2026-04-05T07:05:19.843268"
+    "analyzed_at": "2026-04-06T07:28:56.478225"
   },
   {
     "video_id": "4LbTBtHWGBs",
@@ -1118,10 +1118,12 @@
     "metrics": {
       "views": 0,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-05T07:05:19.191780"
+    "analyzed_at": "2026-04-06T07:28:55.626600"
   },
   {
     "video_id": "zBbSwKt3Q-U",
@@ -1129,12 +1131,14 @@
     "published_at": "2026-04-03T16:33:08Z",
     "topic_family": "hypothetical",
     "metrics": {
-      "views": 2,
+      "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 6
     },
-    "performance_score": 0.005,
-    "analyzed_at": "2026-04-05T07:05:19.308183"
+    "performance_score": 0.122,
+    "analyzed_at": "2026-04-06T07:28:55.796411"
   },
   {
     "video_id": "PyrEN8rxXT8",
@@ -1144,10 +1148,12 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-04-05T07:05:19.421952"
+    "analyzed_at": "2026-04-06T07:28:55.968235"
   },
   {
     "video_id": "PIzsp3VY3U8",
@@ -1155,12 +1161,12 @@
     "published_at": "2026-04-05T01:26:00Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.0,
-    "analyzed_at": "2026-04-05T07:05:18.823646"
+    "performance_score": 0.003,
+    "analyzed_at": "2026-04-06T07:28:55.111698"
   },
   {
     "video_id": "52itjqlV3a8",
@@ -1173,7 +1179,7 @@
       "comments": 0
     },
     "performance_score": 0.023,
-    "analyzed_at": "2026-04-05T07:05:18.940286"
+    "analyzed_at": "2026-04-06T07:28:55.285131"
   },
   {
     "video_id": "2xeXZAFQS80",
@@ -1186,6 +1192,45 @@
       "comments": 0
     },
     "performance_score": 0.043,
-    "analyzed_at": "2026-04-05T07:05:19.075765"
+    "analyzed_at": "2026-04-06T07:28:55.459223"
+  },
+  {
+    "video_id": "QYFiApc1Oks",
+    "title": "How Long to Reach a QUASAR? \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-04-06T01:27:16Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-04-06T07:28:54.628911"
+  },
+  {
+    "video_id": "fUIYfSTuDMY",
+    "title": "Mars's Doomed Moon! \ud83d\ude31\ud83e\ude90",
+    "published_at": "2026-04-05T16:27:43Z",
+    "topic_family": "planetary_facts",
+    "metrics": {
+      "views": 2,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.005,
+    "analyzed_at": "2026-04-06T07:28:54.794480"
+  },
+  {
+    "video_id": "aN1z67wHBrU",
+    "title": "Pluto & Charon: A Cosmic Duet! \ud83d\udd7a\ud83d\udc83\ud83e\ude90",
+    "published_at": "2026-04-05T08:35:20Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-04-06T07:28:54.955844"
   }
 ]
