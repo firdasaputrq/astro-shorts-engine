@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Mercury's Bizarre Solar Day",
+    "topic_family": "planetary_facts",
+    "hook": "Could you outrun the sunrise on Mercury? \ud83c\udfc3\u200d\u2642\ufe0f\ud83c\udf05",
+    "facts": [
+      "Mercury orbits the Sun in just ~88 Earth days (its year).",
+      "It spins on its axis every ~59 Earth days (its sidereal day).",
+      "However, due to a unique 3:2 spin-orbit resonance, the time from one sunrise to the next (a solar day) is drastically different."
+    ],
+    "payoff": "From sunrise to sunrise, 176 Earth days pass \u2013 that means one solar day on Mercury is exactly TWO Mercurian years!",
+    "title": "Mercury's CRAZY Long Day! \ud83e\udd2f\u23f0",
+    "hashtags": [
+      "#Mercury",
+      "#SpaceFacts",
+      "#Astronomy",
+      "#PlanetFacts",
+      "#SolarSystem"
+    ],
+    "generated_at": "2026-04-07T18:14:18.585177",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Could you outrun the sunrise on Mercury? \ud83c\udfc3\u200d\u2642\ufe0f\ud83c\udf05",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Stylized Mercury slowly rotating against a starry space background. Faint sun in the distance.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Mercury's year: ~88 Earth days.",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "Animated Mercury orbiting the Sun quickly. A timer showing '~88 Earth days' appears.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "It spins on its axis every ~59 Earth days.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "Animated Mercury spinning on its axis with a rotational arrow. A timer showing '~59 Earth days' appears.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "BUT... a unique 3:2 spin-orbit resonance changes everything!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Mercury shown orbiting the Sun and spinning simultaneously, highlighting the synchronized motion. Subtle 'resonance' lines connect the spin and orbit.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "One solar day = 176 Earth days! That's TWO Mercurian years! \ud83e\udd2f",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "Extreme close-up of Mercury's barren surface. The Sun slowly crawls across the horizon, emphasizing the incredibly long 'day'. Time counter rapidly ticking up to 176 Earth days."
+      }
+    ],
+    "thumbnail_text": "Mercury's Bizarre Day!",
+    "background_style": "space_stars"
+  },
+  "formatted_at": "2026-04-07T18:14:26.970005",
+  "status": "uploaded",
+  "rendered_at": "2026-04-07T18:15:23.524932",
+  "video_path": "videos_output/mercurys_bizarre_solar_day_20260407_181427.mp4",
+  "uploaded_at": "2026-04-07T18:15:28.590166",
+  "youtube": {
+    "video_id": "1fEENPRV9F4",
+    "url": "https://youtube.com/shorts/1fEENPRV9F4",
+    "title": "Mercury's CRAZY Long Day! \ud83e\udd2f\u23f0",
+    "uploaded_at": "2026-04-07T18:15:28.590059"
+  }
+}

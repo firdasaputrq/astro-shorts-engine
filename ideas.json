@@ -1498,5 +1498,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-07T13:01:46.693424"
+  },
+  {
+    "topic": "Mercury's Bizarre Solar Day",
+    "topic_family": "planetary_facts",
+    "hook": "Could you outrun the sunrise on Mercury? \ud83c\udfc3\u200d\u2642\ufe0f\ud83c\udf05",
+    "facts": [
+      "Mercury orbits the Sun in just ~88 Earth days (its year).",
+      "It spins on its axis every ~59 Earth days (its sidereal day).",
+      "However, due to a unique 3:2 spin-orbit resonance, the time from one sunrise to the next (a solar day) is drastically different."
+    ],
+    "payoff": "From sunrise to sunrise, 176 Earth days pass \u2013 that means one solar day on Mercury is exactly TWO Mercurian years!",
+    "title": "Mercury's CRAZY Long Day! \ud83e\udd2f\u23f0",
+    "hashtags": [
+      "#Mercury",
+      "#SpaceFacts",
+      "#Astronomy",
+      "#PlanetFacts",
+      "#SolarSystem"
+    ],
+    "generated_at": "2026-04-07T18:14:18.585177",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-07T18:14:26.970211"
   }
 ]
