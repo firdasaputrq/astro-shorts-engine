@@ -1,8 +1,5 @@
 name: Generate Short Idea
   
-  - name: Debug
-    run: date
-
 on:
   schedule:
     - cron: '*/5 * * * *'
@@ -19,6 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+      - name: Debug time
+        run: date
+        
       - name: Checkout code
         uses: actions/checkout@v4
       
