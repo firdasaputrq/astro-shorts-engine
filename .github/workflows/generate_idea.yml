@@ -1,4 +1,7 @@
 name: Generate Short Idea
+  
+  - name: Debug
+    run: date
 
 on:
   schedule:
