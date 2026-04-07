@@ -1475,5 +1475,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-07T04:49:41.618819"
+  },
+  {
+    "topic": "Largest Cosmic Structure Scale",
+    "topic_family": "scale_comparison",
+    "hook": "You think galaxies are the biggest cosmic structures?",
+    "facts": [
+      "Our Milky Way galaxy is ~100,000 light-years across.",
+      "Our Local Group of galaxies (including Andromeda) spans ~10 million light-years.",
+      "The Hercules-Corona Borealis Great Wall, a filament of galaxy clusters, stretches an estimated 10 BILLION light-years."
+    ],
+    "payoff": "This single structure is nearly 1/9th the diameter of the entire OBSERVABLE UNIVERSE (approx. 93 billion light-years)! It's mind-bogglingly huge.",
+    "title": "Cosmic Wall: UNIMAGINABLY HUGE! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#Space",
+      "#Astrophysics",
+      "#CosmicScale",
+      "#Universe",
+      "#Galaxies"
+    ],
+    "generated_at": "2026-04-07T13:01:32.033793",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-07T13:01:46.693424"
   }
 ]

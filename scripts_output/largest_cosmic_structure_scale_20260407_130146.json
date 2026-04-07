@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Largest Cosmic Structure Scale",
+    "topic_family": "scale_comparison",
+    "hook": "You think galaxies are the biggest cosmic structures?",
+    "facts": [
+      "Our Milky Way galaxy is ~100,000 light-years across.",
+      "Our Local Group of galaxies (including Andromeda) spans ~10 million light-years.",
+      "The Hercules-Corona Borealis Great Wall, a filament of galaxy clusters, stretches an estimated 10 BILLION light-years."
+    ],
+    "payoff": "This single structure is nearly 1/9th the diameter of the entire OBSERVABLE UNIVERSE (approx. 93 billion light-years)! It's mind-bogglingly huge.",
+    "title": "Cosmic Wall: UNIMAGINABLY HUGE! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#Space",
+      "#Astrophysics",
+      "#CosmicScale",
+      "#Universe",
+      "#Galaxies"
+    ],
+    "generated_at": "2026-04-07T13:01:32.033793",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "You think galaxies are the biggest cosmic structures?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A vast field of stars, slowly zooming out to reveal a beautiful, detailed spiral galaxy in the distance.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Our Milky Way galaxy: ~100,000 LY across.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "An animated rendering of the Milky Way galaxy seen from above, with a measurement bar appearing across its diameter.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Our Local Group of galaxies: ~10 MILLION LY.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Zoom out further to show the Milky Way and Andromeda galaxies, plus other smaller galaxies, depicted as bright nodes within a conceptual, expanding sphere.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Hercules-Corona Borealis Great Wall: ~10 BILLION LY.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A dramatic, rapid zoom out. The Local Group becomes a tiny speck as a vast, glowing filamentary structure of galaxy clusters (cosmic web) stretches across the screen, highlighting the Great Wall section.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "It's ~1/9th the ENTIRE Observable Universe! (93 Billion LY)",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "The entire Observable Universe represented as a shimmering, expanding sphere, with the Hercules-Corona Borealis Great Wall visually scaled and highlighted as a significant arc within it. The background subtly pulsates with cosmic energy."
+      }
+    ],
+    "thumbnail_text": "BIGGEST THING IN SPACE?",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-04-07T13:01:46.693202",
+  "status": "uploaded",
+  "rendered_at": "2026-04-07T13:02:42.969487",
+  "video_path": "videos_output/largest_cosmic_structure_scale_20260407_130147.mp4",
+  "uploaded_at": "2026-04-07T13:02:47.026804",
+  "youtube": {
+    "video_id": "gBDNQJcXDhU",
+    "url": "https://youtube.com/shorts/gBDNQJcXDhU",
+    "title": "Cosmic Wall: UNIMAGINABLY HUGE! \ud83e\udd2f\ud83c\udf0c",
+    "uploaded_at": "2026-04-07T13:02:47.026682"
+  }
+}
