@@ -1,9 +1,9 @@
-name: Generate Short Idea
+name: Generate Short Idea v2
 
 on:
   schedule:
     - cron: '7 12 * * *'  # 08:07 AM EST - morning commute
-    - cron: '32 19 * * *'
+    - cron: '34 12 * * *'
     - cron: '7 15 * * *'  # 11:07 AM EST - late morning
     - cron: '7 18 * * *'  # 02:07 PM EST - lunch break
     - cron: '7 22 * * *'  # 06:07 PM EST - after work
