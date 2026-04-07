@@ -7,11 +7,11 @@ idea_generator.py → script_formatter.py → video_renderer.py → youtube_uplo
 Video dibuat fully local — pakai MoviePy dengan animasi starfield, text, planet grafik. Tidak perlu Pexels atau ElevenLabs. Background music sudah ada di folder assets/audio/.
 
 # 🔐 Secrets yang Dibutuhkan — Hanya 3
-Pergi ke repo → Settings → Secrets and variables → Actions → New repository secret
-Secret Name Isi :
-GEMINI_API_KEYAPI -> key Google Gemini (gratis)
-YOUTUBE_TOKENJSON -> token OAuth (lihat cara buat di bawah)
-YOUTUBE_CLIENT_SECRETJSON -> isi file client_secret.json dari Google Cloud
+Pergi ke repo → Settings → Secrets and variables → Actions → New repository secret   \
+Secret Name Isi :   \
+GEMINI_API_KEYAPI -> key Google Gemini (gratis)   \
+YOUTUBE_TOKENJSON -> token OAuth (lihat cara buat di bawah)   \
+YOUTUBE_CLIENT_SECRETJSON -> isi file client_secret.json dari Google Cloud   
 
 # 🎫 Step 1 — Dapatkan GEMINI_API_KEY
 
@@ -93,12 +93,21 @@ Video terupload ke YouTube channel
 
 ⏰ Jadwal Otomatis
 Dari workflow yang ada:
-WorkflowJadwalFungsiGenerate Short IdeaSetiap 8 jam (jam 00, 08, 16 UTC = 07, 15, 23 WIB)Generate + upload 1 videoAnalytics & LearningSetiap hari jam 06 UTC (13.00 WIB)Analisa performa, update strategi
+WorkflowJadwalFungsiGenerate Short Ideal (dan sudah dibuat 5x setiap harinya).
+
+Jadwal (target US)    
+   - cron: '0 12 * * *'  # 08:00 AM EST (19:00 WIB) - morning commute
+   - cron: '0 15 * * *'  # 11:00 AM EST (22:00 WIB) - late morning
+   - cron: '0 18 * * *'  # 02:00 PM EST (01:00 WIB) - lunch break
+   - cron: '0 22 * * *'  # 06:00 PM EST (05:00 WIB) - after work
+   - cron: '0 1 * * *'   # 09:00 PM EST (08:00 WIB) - prime evening scroll
+
+dan upload 1 videoAnalytics & LearningSetiap hari jam 06 UTC (13.00 WIB)Analisa performa, update strategi
 Jadi 3 video/hari otomatis, dan sistem belajar sendiri dari analytics YouTube untuk pilih topik yang perform bagus.
 
 ⚠️ Hal Penting
 Ganti branch protection jika ada — workflow butuh push langsung ke main.
-YouTube quota limit — YouTube Data API v3 punya default 10.000 unit/hari. Upload 1 video = ~1600 unit. Jadi aman untuk 3 video/hari (total ~4800 unit).
+YouTube quota limit — YouTube Data API v3 punya default 10.000 unit/hari. Upload 1 video = ~1600 unit. Jadi aman untuk 5 video/hari (total ~8000 unit).
 Refresh token tidak kedaluwarsa selama aplikasi Google Cloud kamu masih aktif dan token tidak di-revoke.
 
 
