@@ -1521,5 +1521,31 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-07T18:14:26.970211"
+  },
+  {
+    "topic": "Titan's Methane Cycle",
+    "topic_family": "planetary_facts",
+    "hook": "A Moon with RAIN... but it's NOT water? \ud83c\udf27\ufe0f\ud83e\udd2f",
+    "facts": [
+      "Titan, Saturn's largest moon, is the only moon in our solar system with a thick atmosphere, with surface pressure about 1.5 times Earth's!",
+      "Beneath its orange haze, Titan hosts vast rivers, lakes, and seas... but they're filled with liquid methane and ethane, not water.",
+      "This alien world even has a complete methane weather cycle, including clouds, rain, and evaporation."
+    ],
+    "payoff": "Explore a chilling Earth-like world where fuel falls from the sky and flows in rivers!",
+    "title": "Titan: Rain That Burns! \ud83d\udd25\ud83c\udf27\ufe0f\ud83e\ude90",
+    "hashtags": [
+      "Titan",
+      "Saturn",
+      "Moon",
+      "Methane",
+      "SpaceFacts",
+      "Astrophysics",
+      "SolarSystem",
+      "Science"
+    ],
+    "generated_at": "2026-04-07T20:09:48.885542",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-07T20:10:03.991172"
   }
 ]
