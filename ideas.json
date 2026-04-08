@@ -1593,5 +1593,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-08T06:25:43.952472"
+  },
+  {
+    "topic": "Interstellar Travel Challenge",
+    "topic_family": "travel_time",
+    "hook": "Want to visit our nearest star, Proxima Centauri? It's closer than you think, but...",
+    "facts": [
+      "Proxima Centauri is 'just' 4.24 light-years away from us.",
+      "Our fastest spacecraft ever, Voyager 1 (traveling ~17 km/s), would take ~75,000 years to reach Proxima Centauri.",
+      "Even a hypothetical future probe traveling at 10% the speed of light (0.1c) would still need 42.4 years for the one-way trip."
+    ],
+    "payoff": "Interstellar travel demands an unimaginable technological leap, making even our closest stellar neighbor a multi-generational journey!",
+    "title": "Proxima Centauri: A Lifetime Journey! \ud83e\udd2f\ud83d\ude80",
+    "hashtags": [
+      "interstellar",
+      "proximacentauri",
+      "spacetime",
+      "astrophysics",
+      "spaceexploration"
+    ],
+    "generated_at": "2026-04-08T19:03:31.539056",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-08T19:03:38.991541"
   }
 ]
